@@ -1,13 +1,14 @@
 # CrimsonSky - Api Gateway Microservice
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_flight-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ved-asole_flight-service)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_flight-service&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ved-asole_flight-service)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_flight-service&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=ved-asole_flight-service)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_flight-service&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ved-asole_flight-service)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_flight-service&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ved-asole_flight-service)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_flight-service&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ved-asole_flight-service)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_flight-service&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ved-asole_flight-service)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_flight-service&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ved-asole_flight-service)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_api-gateway&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ved-asole_api-gateway)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_api-gateway&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ved-asole_api-gateway)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_api-gateway&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=ved-asole_api-gateway)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_api-gateway&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ved-asole_api-gateway)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_api-gateway&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ved-asole_api-gateway)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_api-gateway&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ved-asole_api-gateway)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_api-gateway&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ved-asole_api-gateway)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_api-gateway&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ved-asole_api-gateway)
+
 ## Live Link / Demo Link: 🔗
 Access the flight service at **[localhost:8765](http://localhost:8765)**
 
